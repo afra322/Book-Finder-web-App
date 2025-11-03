@@ -4,7 +4,7 @@ A responsive web application that allows users to search for books using the **O
 This app displays real-time book details such as title, author, and cover image dynamically.  
 
 ## 🚀 Live Demo & Source Code  
-[👉 View the Project on CodeSandbox](https://zm3c3l.csb.app/)  
+(https://zm3c3l.csb.app/)  
 
 ## 🔍 Features  
 - Search books by title  
