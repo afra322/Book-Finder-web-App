@@ -3,7 +3,8 @@
 A responsive web application that allows users to search for books using the **Open Library API**.  
 This app displays real-time book details such as title, author, and cover image dynamically.  
 
-## 🚀 Live Demo & Source Code  
+## 🚀 Live Demo, Source Code & README  
+**Includes full source code and detailed README inside Open CodeSandbox (accessible from the corner).**  
 (https://zm3c3l.csb.app/)  
 
 ## 🔍 Features  
